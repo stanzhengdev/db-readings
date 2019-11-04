@@ -25,3 +25,8 @@
 - Elasticity
 - Distributed 
 - High level abstraction or low level 
+
+# 5 min rule signmod
+- [Abstract] Simple  economic  and  performance  arguments  sug-gest  appropriate  lifetimes  for  main  memory  pages and  suggest  optimal  page  sizes.      The  fundamental  tradeoffs are the prices and bandwidths of RAMs and disks.    The analysis indicates that with today's tech-nology, five minutes is a good lifetime for randomly accessed  pages,  one  minute  is  a  good  lifetime  for  two-pass sequentially accessed pages, and 16 KB is a good  size  for  index  pages.    These  rules-of-thumb change   in   predictable   ways   as   technology   ratios change.  They  also  motivate  the  importance  of  the new Kaps,   Maps,   Scans,   and $/Kaps,   $/Maps, $/TBscan metrics.
+- Time to access depending how long do you want to remember before accessing stuf has increased
+- The Kaps, Maps, and Scans metrics that meas-ure  access  rate  and  price/access  are  becoming  in-creasingly important. 
