@@ -16,3 +16,7 @@
 - Unique 64 bit chunks on chunkserver
 - Mark and sweep later for garbage collection. Marked as Hidden
 - 3 Replications
+
+# How to read papers 
+- Three passes 
+- Abstract, Bullets, Conclusions
