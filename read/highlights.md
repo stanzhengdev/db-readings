@@ -20,3 +20,8 @@
 # How to read papers 
 - Three passes 
 - Abstract, Bullets, Conclusions
+
+# Cloud Computing
+- Elasticity
+- Distributed 
+- High level abstraction or low level 
